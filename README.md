@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehaksaini2811
 - 👀 I’m interested in java, springboot, javascript
-- I love playing basketball and reading novels in my free time
+- :basketball: I love playing basketball and reading novels in my free time
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on react
 - 📫 How to reach me -
